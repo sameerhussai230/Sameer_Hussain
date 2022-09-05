@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sameerhussai230 , student of M.tech in Delhi Technological University
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, Sql, Tableau, PowerBI, Excel 
-- 💞️ I’m looking to collaborate on Project of Data Analysis
+- 👀 I’m interested in Frontend Development, React Dashboard, Responsive Websites
+- 🌱 I’m currently learning C++, Data Structure, Python, Sql, Tableau, PowerBI, Excel 
+- 💞️ I’m looking to collaborate on Project Full Stack Web Development 
 - 📫 How to reach me ...sameerhussain230@gmail.com
 
 <!---
