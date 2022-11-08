@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sameerhussai230 , student of M.tech in Delhi Technological University
-- 👀 I’m interested in Frontend Development, React Dashboard, Responsive Websites
-- 🌱 I’m currently learning C++, Data Structure, Python, Sql, Tableau, PowerBI, Excel 
-- 💞️ I’m looking to collaborate on Project Full Stack Web Development 
-- 📫 How to reach me ...sameerhussain230@gmail.com
+- 👀 I’m interested in Data Analysis, Machine Learning, Python, SQL
+- 🌱 I’m currently learning Python, Machine Learning, Sql, Tableau, PowerBI, Excel.
+- 📫 You can reach me at  sameerhussain230@gmail.com
 
 <!---
 sameerhussai230/sameerhussai230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
